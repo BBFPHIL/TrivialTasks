@@ -42,7 +42,7 @@ bool isPallindrome(string p){
 int main(){
 
   //string
-  string p = "racecar";
+  string p = "ksjdsjd";
   bool state = false;
   
   //Find if palindrome
